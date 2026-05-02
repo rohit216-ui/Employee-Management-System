@@ -64,7 +64,7 @@ Controller → Service → Repository → Database
 
 ---
 
-## 📸 Screens (Optional)
+## 📸 Screenshots
 
 * Login Page
   <img width="1366" height="768" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/abf6cf53-1386-4baf-9981-6f610f82c302" />
