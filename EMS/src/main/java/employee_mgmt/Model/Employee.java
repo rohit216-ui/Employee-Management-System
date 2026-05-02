@@ -1,4 +1,4 @@
-package Employee_Management_System.Model;
+package employee_mgmt.Model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

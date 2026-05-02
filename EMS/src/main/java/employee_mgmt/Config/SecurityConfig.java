@@ -1,4 +1,4 @@
-package Employee_Management_System.Config;
+package employee_mgmt.Config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

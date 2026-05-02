@@ -1,4 +1,4 @@
-package Employee_Management_System;
+package employee_mgmt;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

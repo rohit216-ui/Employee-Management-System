@@ -1,4 +1,4 @@
-package Employee_Management_System.Controller;
+package employee_mgmt.Controller;
 
 
 
@@ -7,8 +7,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
-import Employee_Management_System.Model.Employee;
-import Employee_Management_System.Service.EmployeeServiceimpli;
+import employee_mgmt.Model.Employee;
+import employee_mgmt.Service.EmployeeServiceimpli;
 
 @Controller
 @RequestMapping("/employees")

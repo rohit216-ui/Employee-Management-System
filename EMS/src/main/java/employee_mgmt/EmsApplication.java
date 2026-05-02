@@ -1,4 +1,4 @@
-package Employee_Management_System;
+package employee_mgmt;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

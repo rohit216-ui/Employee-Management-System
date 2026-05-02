@@ -1,10 +1,10 @@
-package Employee_Management_System.Service;
+package employee_mgmt.Service;
 
 
 import java.util.List;
 import java.util.Optional;
 
-import Employee_Management_System.Model.Employee;
+import employee_mgmt.Model.Employee;
 
 
 public interface EmployeeServiceimpli {
